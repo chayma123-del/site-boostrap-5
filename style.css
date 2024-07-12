@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+    font-family: 'oswald',sans-serif;
+}
+h1{
+    font-family: 'Gill Sans';
+}
+.sitexs{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)),url(img/banner-image.png);
+}
+.sitesm{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)),url(img/img1.jpg);
+}
+.sitemd{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)),url(img/about-us.png);
+}
+.sitelg{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)),url(img/img3.jpg);
+}
+.sitexl{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)),url(img/img2.jpg);
+}
+.sitexl{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)),url(img/img2.jpg);
+}
+.sitexxl{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)),url(img/logo\ \(1\).png);
+}
+
+
+
+
+
+
+
+
+
+
